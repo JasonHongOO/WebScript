@@ -1,0 +1,5 @@
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 1"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 2"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 3"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 4"
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --profile-directory="Profile 5"

@@ -1,0 +1,35 @@
+#C:/Users/JasonHong/AppData/Local/Google/Chrome/
+
+#RestProfile
+rest_profile_mode = 0
+
+#random (max and min)	執行操作的速度範圍
+r_max = 2.5
+r_min = 0.5
+
+#task_mode 模式是甚麼    (0 測試| 1 HappyMH 註冊帳號| 2 擷取網站小說| 3 FB 註冊帳號| 4 FB 留言| 5 Google 註冊帳號)
+task_mode = 5
+
+#一次執行幾個網站
+browser_num_once = 1
+
+#總共幾個網站		
+browser_num = 1
+
+#muti_web_mode 同時多網站開啟 (0 關閉 1開啟)
+multi_web_mode = 1
+
+#multi_profile_mode 每個網站是否都是不同 profile	(是否要用 profile)
+multi_profile_mode = 1
+
+#muti_web_delete_mode 是否要自動刪除額外產生的檔案 (0 關閉 1開啟)
+multi_web_delete_mode = 0
+
+
+
+#chpater 數量
+chapter_num = 10
+
+#window select profile mode
+window_select_profile_mode = 0
+
